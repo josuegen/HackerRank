@@ -1,5 +1,3 @@
-
-
 #!/bin/python3
 
 import math
@@ -24,11 +22,6 @@ def countApplesAndOranges(s, t, a, b, apples, oranges,m,n):
             orangesAtHouse+=1;
     print(str(applesAtHouse));
     print(str(orangesAtHouse));
-
-    
-    
-    
-
 
 if __name__ == '__main__':
     st = input().split()
